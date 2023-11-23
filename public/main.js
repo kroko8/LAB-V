@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }).then(response => {
             console.log(response)
         }).catch(error => {
-            console.error('Error al subir tareas:', error)
+            console.error('Error al subir tareaaaaaaaaaaaaaaaaaaaaaaaaaaaaaas:', error)
         });
     }
 
